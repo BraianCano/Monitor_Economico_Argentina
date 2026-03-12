@@ -85,7 +85,7 @@ monitor-economico-argentina/
 
 ##  Reporte Power BI
 
-![Dashboard Power BI](Capturas/Dashboard_Power_bi.png)
+![Dashboard Power BI](Capturas/Dashboard_Power_Bi.png)
 
 **Habilidades demostradas:**
 - Tabla Calendario con DAX (CALENDAR, YEAR, MONTH, FORMAT)
